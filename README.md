@@ -34,4 +34,3 @@
     <p>In the <span class="highlight"><a href="https://sites.google.com/view/allthingsonepunchman/home">One Punch Man manga</a></span>, this origin story is highlighted with great detail, showcasing the contrast between Saitama and characters like Genos, whose backstories are filled with tragedy and elaborate transformations. Whether you're reading about Saitama's initial struggles or his eventual rise to heroism, the humor and simplicity of his journey stand out, making the <span class="highlight">One Punch Man anime</span> a unique and entertaining critique of traditional superhero narratives.</p>
 </body>
 </html>
-```
